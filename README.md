@@ -1,2 +1,2 @@
-# Comparative-Study-on-Fake-News-Detection
-Fake news has become a major problem in the digital age, with the potential to mislead and misinform the public. Logistic regression is a machine learning algorithm that can be used to classify data, making it a promising tool for fake news detection.
+# Comparative Study on Fake News Detection
+In this paper, we propose a novel fake news detection model using logistic regression. Our model is based on a set of features extracted from news articles, including lexical features, syntactic features, and semantic features. Fake news has become a major problem in the digital age, with the potential to mislead and misinform the public. Logistic regression is a machine learning algorithm that can be used to classify data, making it a promising tool for fake news detection. Fake news, or misinformation, is a serious problem that has the potential to undermine democracy, public trust, and social cohesion.
